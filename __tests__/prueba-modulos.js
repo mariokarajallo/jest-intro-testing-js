@@ -1,4 +1,4 @@
-import { suma, resta } from "../js/funciones";
+import { suma, resta } from "../js/prueba-funciones";
 describe("Testing a las funciones de suma y resta", () => {
   test("Suma de 20 y 30 y resultado 30 ", () => {
     expect(suma(20, 10)).toBe(30);
