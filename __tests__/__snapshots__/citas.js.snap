@@ -1,13 +1,13 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[` 1`] = `
+exports[`Probar la clase de citas Actualizar cita 1`] = `
 Citas {
   "citas": [
     {
       "fecha": "11-06-23",
       "hora": "10:40",
-      "id": 1686539586222,
-      "mascota": "Frodo",
+      "id": 1686540170156,
+      "mascota": "Kira",
       "propietario": "Mario",
       "sintomas": "Duerme mucho",
       "telefono": "111222",
@@ -22,7 +22,7 @@ Citas {
     {
       "fecha": "11-06-23",
       "hora": "10:40",
-      "id": 1686539716588,
+      "id": 1686540170156,
       "mascota": "Frodo",
       "propietario": "Mario",
       "sintomas": "Duerme mucho",
