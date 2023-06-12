@@ -6,7 +6,7 @@ Citas {
     {
       "fecha": "11-06-23",
       "hora": "10:40",
-      "id": 1686540170156,
+      "id": 1686540398451,
       "mascota": "Kira",
       "propietario": "Mario",
       "sintomas": "Duerme mucho",
@@ -22,12 +22,18 @@ Citas {
     {
       "fecha": "11-06-23",
       "hora": "10:40",
-      "id": 1686540170156,
+      "id": 1686540398451,
       "mascota": "Frodo",
       "propietario": "Mario",
       "sintomas": "Duerme mucho",
       "telefono": "111222",
     },
   ],
+}
+`;
+
+exports[`Probar la clase de citas Eliiminar cita 1`] = `
+Citas {
+  "citas": [],
 }
 `;

@@ -35,4 +35,9 @@ describe("Probar la clase de citas", () => {
     citas.editarCita(citaActualizada);
     expect(citas).toMatchSnapshot();
   });
+
+  test("Eliiminar cita", () => {
+    citas.eliminarCita(id);
+    expect(citas).toMatchSnapshot();
+  });
 });
